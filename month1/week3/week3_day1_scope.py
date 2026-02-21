@@ -1,0 +1,1 @@
+# LEGB rule, global, nonlocal
