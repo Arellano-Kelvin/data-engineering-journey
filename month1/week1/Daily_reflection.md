@@ -1,0 +1,3 @@
+1> Did today's material make sense? Can I explain 2-3 key concepts outloud right now? I can explain concepts that I had an introduction to before but a lot of the generated code was levels above what I think I would be able to do.
+What is 1 think I'm not 100% clear on? truthy and falsey statements, testing for correct inputs, and writing things to a newly created file
+3. Did I build something or just read and watch? Yes, I tried to build the quiz and I have the first question and the checks for valid input done but I need to build out the quiz to be at least 5 questions then put those questions, answers and score onto a new text document

@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+LEARNING_NOTES.md
+Daily_reflections.md
