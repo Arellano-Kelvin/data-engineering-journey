@@ -5,3 +5,6 @@ Copilot/Cursor usage: Used inline suggestions + Ctrl+K explanations on every maj
 Week 1, Day 3 – Deepened string handling + function practice + regex basics.
 New files: day3_strings_functions.py, cleaned_names.txt (example)
 Cursor usage: Ctrl+K explanations on regex & defaults before accepting.
+Week 1, Day 4 – Added try/except handling, safe file ops, regex data cleaning + started CSV parser project.
+New files: day4_exceptions_files_regex.py, csv_cleaner.py
+Cursor usage: Ctrl+K explanations on exceptions and regex patterns.
